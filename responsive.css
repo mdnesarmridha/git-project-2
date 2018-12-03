@@ -1,0 +1,277 @@
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .header-left {
+  margin: 10px 10px 10px 10px;
+  float: none!important;
+}
+  .header-left a h2 {
+    font-size: 25px;
+}
+ .floatleft {
+    text-align: center;
+}
+.header-left p {
+    margin-top: 5px;
+}
+.header-right {
+    margin-right: 0px;
+	float: none;
+}
+.header-socials a {
+    margin-right: 15px;
+}
+
+
+.header-socials a i {
+    font-size: 20px;
+    padding: 9px;
+    height: 22px;
+    width: 22px;
+  
+}
+.header-right-bottom {
+    margin-top: 20px;
+}
+.header-manu ul li a {
+    font-size: 15px;
+}
+.header-manu {
+    margin-bottom: 5px;
+}
+.main-manu-left {
+    padding-left: 0px;
+}
+.main-manu-left ul li a {
+    padding: 10px 7px;
+}
+.main-manu-search {
+    margin-right: 0px;
+	float: none;
+}
+.main-manu-search form {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.main-manu-search form input[type="search"] {
+    width: 220px;
+}
+.main-manu-search form input {
+    margin-top: 0px;
+}
+.silder-area {
+    padding: 16px;
+}
+
+.silder img {
+    height: 130px;
+    width: 265px;
+	border: 4px solid #fff;
+}
+.service-area {
+    margin-top: 24px;
+    margin-bottom: 26px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.single-service {
+    width: 100%;
+ 
+}
+.project-area {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.single-project {
+    width: 96%;
+	float:none;
+}
+.footer-area-top {
+    padding: 15px 10px 15px 10px;
+}
+.single-widgett {
+    width: 100%;
+    margin-right: 12px;
+    padding-left: 0px;
+    margin-top: 40px;
+	float:none;
+}
+.single-widget-tittle {
+    margin-bottom: 15px;
+} 
+.single-widget-content form input[type="text"] {
+    padding: 10px;
+	width: 80%;
+    margin-left: 5%;
+}
+.single-widget-content form input[type="submit"] {
+    margin-left: 5%;
+} 
+.copyright-left p {
+    font-size: 11px;
+    padding: 25px 15px;
+	float: none;
+}
+.copyright-right {
+    float: none;
+}
+.copyright-right p {
+    font-size: 11px;
+    float: none;
+    padding-bottom: 15px;
+	text-align: center;
+}
+
+
+}
+
+@media (min-width: 471px) and (max-width: 767px){
+	
+.header-manu ul li a {
+    font-size: 20px;
+    padding: 5px;
+}
+.header-manu ul {
+    text-align: center;
+    float: none!important;
+    padding: 6px;
+    margin-right: 20px;
+}
+.main-manu-left ul li a {
+    padding: 12px 12px;
+}
+.main-manu-left ul li a {
+    font-size: 20px;
+}
+.service-area {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.single-service {
+    width: 49%;
+}
+.single-image img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+	margin-bottom: 0px;
+}
+.single-service-content {
+    padding-bottom: 20px;
+}
+.single-project {
+    width: 46%;
+    margin-left: 4px;
+	float: none;
+}
+
+ .single-project-image img {
+	padding: 3px;
+	width: 95%;
+    height: 50%;
+}
+.footer-area-top {
+    padding: 10px 4px 10px 4px;
+}
+.single-widgett {
+    width: 47%;
+    margin-top: 32px;
+	float: left;
+	height: 180px;
+}
+ 
+ 
+ .single-widget-content form input[type="text"] {
+    padding: 10px;
+    width: 80%;
+    margin-left: 8%;
+}
+.single-widget-content form input[type="submit"] {
+    margin-left: 8%;
+}
+.copyright-left p {
+    font-size: 11px;
+    padding: 20px 10px;
+}
+.copyright-right p {
+    font-size: 11px;
+	padding: 20px 0px;
+}
+
+}
+@media (min-width: 758px) and (max-width: 1024px) and (orientation: landscape) {
+  .header-left {
+    margin: 25px 13px 25px 21px;
+	margin-top: 38px;
+}
+.header-right-top {
+    width: 100%;
+}
+.header-socials {
+    padding: 8px 15px;
+}
+.header-manu ul li a {
+    font-size: 18px;
+}
+.header-socials a i {
+    font-size: 25px;
+    padding: 10px;
+    height: 27px;
+    width: 27px;
+}
+.header-right-bottom {
+    margin-top: 25px;
+}
+.header-left a h2 {
+    font-size: 30px;
+}
+.main-manu-left {
+    padding-left: 15px;
+}
+.main-manu-left ul li a {
+    font-size: 12px;
+    padding: 25px 3px;;
+}
+.main-manu-search form input[type="search"] {
+    padding-right: 10px;
+	font-size: 11px;
+}
+.main-manu-search form input[type="submit"] {
+    margin-left: -10px;
+	font-size: 11px;
+}
+.main-manu-search {
+    margin-bottom: 20px;
+}
+.silder img {
+    width: 90%;
+}
+.single-service {
+    width: 23%;
+    padding: 5px;
+}
+.single-project-image img {
+    height: 40%;
+    width: 95%;
+}
+.single-project {
+    width: 23%;
+	margin-bottom: 30px;
+}
+.project-area {
+    padding-top: 30px;
+	margin-left: 10px;
+}
+.single-widgett {
+    margin-right: 7px;
+    padding-left: 6px;
+}
+.single-widget-content form input[type="text"] {
+	padding: 10px ;
+	width:94%}
+  
+}
+
+
